@@ -88,8 +88,8 @@ endmodule
 ```
 /* Program for 4 Bit Ripple Counter and verify its truth table in quartus using Verilog programming.
 
- Developed by: Ramesh krishnan s
- Register number: 24001852
+ Developed by: S Harish
+ Register number: 24900573
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
 ![WhatsApp Image 2024-12-24 at 08 47 25_4b789e77](https://github.com/user-attachments/assets/7f89bfee-940c-4632-8b52-f398b3542a99)
